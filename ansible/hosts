@@ -1,0 +1,4 @@
+[servers]
+
+server1 ansible_host=3.88.22.10
+
